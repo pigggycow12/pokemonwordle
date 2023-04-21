@@ -1,4 +1,4 @@
-# Wordle Pokémon theme - by Asher - 13.04.22
+# Wordle Pokémon theme - by Pigggycow12 - 21.04.23
 repeat = True
 bleh = True
 import time
